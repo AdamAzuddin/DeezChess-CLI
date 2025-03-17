@@ -39,6 +39,3 @@ Any suggestions, feedback, or contributions are welcome! Feel free to reach out.
 
 ## License
 This project is open-source. Feel free to use it for learning and personal projects.
-
-## Contact
-- GitHub: [AdamAzuddin](https://github.com/AdamAzuddin)
